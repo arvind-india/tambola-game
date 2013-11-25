@@ -12,7 +12,7 @@ How to Play
 
 To run, from Cmd prompt type: 
 `> python tambola.py <time>`
-where, <time> is to be replaced by time in seconds.
+where, `<time>` is to be replaced by time in seconds.
 
 For example:
 `> python tambola.py .1` 
