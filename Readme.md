@@ -1,7 +1,8 @@
 TAMBOLA GAME
 ============
 
-Tambola is a social game pretty famous across India. 
+Tambola is a social game played in several Commonwealth countries and is quite famous in India.
+
 http://en.wikipedia.org/wiki/Bingo_(Commonwealth)
 
 This is the code for the core game engine. Runs from the command line. You may use it for your application.
