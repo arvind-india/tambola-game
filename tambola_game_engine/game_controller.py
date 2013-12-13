@@ -1,6 +1,5 @@
 #
 # Tambola / Housie Mobile Game
-# Copyright (c) 2013 Liquid Games
 #
 
 __author__ = 'nitin'
